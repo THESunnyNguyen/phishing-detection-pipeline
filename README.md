@@ -1,4 +1,5 @@
 # 🛡️ Phishing Detection & Response Pipeline (KubeSecOps Edition)
+![PhishSimPipe](https://github.com/user-attachments/assets/e699a94a-c283-46b4-8530-c8e63a8756e0)
 
 A full-stack cybersecurity project that simulates phishing attacks and builds an automated detection and response system using a modern DevSecOps toolchain. Designed to showcase skills in **Kubernetes, Docker, Jenkins, SALT, AWS, MySQL/Cassandra, and Python-based security tooling**.
 

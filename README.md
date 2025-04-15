@@ -1,5 +1,7 @@
 # 🛡️ Phishing Detection & Response Pipeline (KubeSecOps Edition)
-![PhishSimPipe](https://github.com/user-attachments/assets/e699a94a-c283-46b4-8530-c8e63a8756e0)
+![PhishSimPipe](https://github.com/user-attachments/assets/34a9b25b-2be9-426b-ac4e-9f2e0fd6ed0a)<?xml version="1.0" encoding="utf-8"?><Error><Code>AuthenticationFailed</Code><Message>Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature.
+RequestId:811beb2b-e01e-003c-2b57-ae5849000000
+Time:2025-04-15T22:38:05.1692420Z</Message><AuthenticationErrorDetail>Signed expiry time [Tue, 15 Apr 2025 21:42:45 GMT] must be after signed start time [Tue, 15 Apr 2025 22:38:05 GMT]</AuthenticationErrorDetail></Error>
 
 A full-stack cybersecurity project that simulates phishing attacks and builds an automated detection and response system using a modern DevSecOps toolchain. Designed to showcase skills in **Kubernetes, Docker, Jenkins, SALT, AWS, MySQL/Cassandra, and Python-based security tooling**.
 

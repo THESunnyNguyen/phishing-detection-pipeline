@@ -41,7 +41,7 @@ A full-stack cybersecurity project that simulates phishing attacks and builds an
 [Dashboard / Alerts / CI/CD Auto Response]
 
 All services run in containers, orchestrated via Kubernetes, built and deployed via Jenkins.
-
+```
 ---
 
 ## 🔧 Setup Instructions

@@ -1,0 +1,3 @@
+# specific to logging stack setup, logging infrastructure
+# spins up db containers, log processors
+# 

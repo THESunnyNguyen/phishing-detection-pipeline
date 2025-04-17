@@ -1,0 +1,12 @@
+Build the image:
+docker build -t phishing-simulator ./simulator
+
+Apply to Minikube:
+kubectl apply -f k8s/simulator-deployment.yaml
+
+Access it:
+minikube service simulator-service
+
+Spin up a MySQL container:
+
+docker run --name mysql-logger -e MYSQL_ROOT_PASSWORD=password -d mysql:latest
